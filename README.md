@@ -4,7 +4,7 @@ Let's have some fun with automation and the Unity Immediate Window package
 
 This repository is based on an article posted in [The Gamedev Guru's Website](https://thegamedev.guru/unity-immediate-for-automated-playthroughs/). If you want to understand what's going on, I suggest you have a look there first!
 
-![Logo](images/Unity-Immediate-Gamedev-Guru-Thumbnail.jpg "Logo")
+![Logo](Images/Unity-Immediate-Gamedev-Guru-Thumbnail.jpg "Logo")
 
 
 The code you can use for the automated playthrough can be found below:
